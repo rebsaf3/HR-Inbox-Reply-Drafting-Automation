@@ -1,0 +1,9 @@
+{
+  "message_id": "EXAMPLE_0001",
+  "received_time": "2026_02_07T10_15_00",
+  "from": "employee@example.com",
+  "to": "hr_inbox@example.com",
+  "subject": "Question about time off request",
+  "body_preview": "Hi, where do I submit a time off request and how far in advance do I need to do it?",
+  "body": "Hi HR, where do I submit a time off request and how far in advance do I need to do it? Thanks"
+}
